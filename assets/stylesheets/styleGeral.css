@@ -1,0 +1,8 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background: rgb(27,153,139);
+    background: linear-gradient(90deg, rgba(27,153,139,1) 0%, rgba(47,57,77,1) 100%);
+}
